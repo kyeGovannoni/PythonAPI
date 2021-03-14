@@ -1,0 +1,3 @@
+
+#any files you dont want to track for this we want to not track .vscode as this is specific to our computer 
+.vscode
